@@ -11,5 +11,5 @@ import { FlagListComponent } from './flag-list/flag-list.component';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'Sagar_Jameshbhai';
+  title:string = 'Sagar Jameshbhai Parmar';
 }
